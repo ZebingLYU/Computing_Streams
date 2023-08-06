@@ -62,7 +62,7 @@ if __name__ == "__main__":
         process_daily_log_and_save_intermediary_files(date_str)
 
 
-# In[ ]:
+
 
 
 
