@@ -36,7 +36,7 @@ def generate_random_data(file_prefix, num_rows_per_day, num_days):
 generate_random_data("/Users/joseph/Desktop/daily_logs_folder/listen", 15000000, 7)
 
 
-# In[ ]:
+
 
 
 
