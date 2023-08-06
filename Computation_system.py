@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
 
 import os
 import json
@@ -96,8 +94,6 @@ if __name__ == "__main__":
     # Compute top 50 songs for past 7 days and write to output
     compute_top_songs_for_past_seven_days()
 
-
-# In[ ]:
 
 
 
