@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[25]:
-
-
 import os
 import json
 import logging
@@ -135,9 +129,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# In[ ]:
 
 
 
