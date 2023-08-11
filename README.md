@@ -1,10 +1,10 @@
 The optimizations have been made in the following sections:
 
-1.     Generated corrupted rows accounting for 1% of the total number of streams.
+1. Generated corrupted rows accounting for 1% of the total number of streams.
 
-2.     Applied logging library to record corrupted rows.
+2. Applied logging library to record corrupted rows.
 
-3.     Used argparse library to define and handle the command-line argument (--date). It enables us to specify an output date such as 2023-08-10, so that we could command the Computation_system.py to process data for the 7 days before 2023-08-10 in a terminal interface. Without this date argument, the script would default to using today's date (2023-08-11) to compute top 50 songs of past 7 days. With this optimization, it made the system more flexible without modifying the code.
+3. Used argparse library to define and handle the command-line argument (--date). It enables us to specify an output date such as 2023-08-10, so that we could command the Computation_system.py to process data for the 7 days before 2023-08-10 in a terminal interface. Without this date argument, the script would default to using today's date (2023-08-11) to compute top 50 songs of past 7 days. With this optimization, it made the system more flexible without modifying the code.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
